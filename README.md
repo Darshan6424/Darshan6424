@@ -1,7 +1,7 @@
 Me:
 
-* 16 year old
-* Learning python
+* 17 year old
+* Learning python,php,js,SQL
 * Want to improve github commit from now on 
 * check out my socials
 * mail me at subedidarshan64@gmail.com
