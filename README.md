@@ -1,6 +1,6 @@
 Me:
 
-* 17 year old
+* 18 year old
 * Learning python,php,js,SQL
 * Want to improve github commit from now on 
 * check out my socials
